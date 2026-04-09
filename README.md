@@ -45,3 +45,5 @@
 
 一句话版：电脑上只要运行一次 `./install.sh`，然后在 `Aria2-Explorer` 里把 URL 填成 `aria2://browse?dir=${taskdir}&name=${taskname}` 就可以了。
 
+
+![](./reveal_in_finder.png)
